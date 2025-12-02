@@ -3,7 +3,7 @@
 A real-time pothole detection system using **YOLOv8** and **OpenCV**. This project detects potholes in video feeds or images to help identify road damage.
 
 ## Features
-- **Real-time Detection**: Works on webcam or video files.
+- **Real-time Detection**: Works on images or video files.
 - **Custom Trained Model**: Includes a trained pothole model.
 
 ## Installation
